@@ -1,0 +1,57 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ischemic-coronary-heart-disease-chd---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-heart-disease-chd-ischaemia---primary.py
+inputModule4:
+  class: File
+  path: python/coronary-heart-disease-chd---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-heart-disease-chd-review---primary.py
+inputModule6:
+  class: File
+  path: python/coronary-heart-disease-chd-aborted---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-heart-disease-chd-artery---primary.py
+inputModule8:
+  class: File
+  path: python/silent-coronary-heart-disease-chd---primary.py
+inputModule9:
+  class: File
+  path: python/atherosclerotic-coronary-heart-disease-chd---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-coronary-heart-disease-chd---primary.py
+inputModule11:
+  class: File
+  path: python/coronary-heart-disease-chd-aneurysm---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-heart-disease-chd-infarction---primary.py
+inputModule13:
+  class: File
+  path: python/certain-coronary-heart-disease-chd---primary.py
+inputModule14:
+  class: File
+  path: python/coronary-heart-disease-chd-pectoris---primary.py
+inputModule15:
+  class: File
+  path: python/coronary-heart-disease-chd-subacute---primary.py
+inputModule16:
+  class: File
+  path: python/coronary-heart-disease-chd-rupture---primary.py
+inputModule17:
+  class: File
+  path: python/coronary-heart-disease-chd-unspecified---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
